@@ -9,7 +9,7 @@
 - Address
   - **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
 - Site
-  - **<https://wu-kan.cn>**
+  - **<https://programmer2416611057.github.io/xiaoxin/>**
 - [Resume](https://resume.wu-kan.cn/index.pdf)
 
 <!-- .slide vertical=true -->
