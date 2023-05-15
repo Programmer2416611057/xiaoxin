@@ -7,7 +7,7 @@
 ## Contact
 
 - Address
-  - **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
+  - **Sun Yat-sen University - 132 Waihuan East Rd. - Guizhou, China**
 - Site
   - **<https://programmer2416611057.github.io/xiaoxin/>**
 - [Resume](https://resume.wu-kan.cn/index.pdf)
@@ -15,9 +15,9 @@
 <!-- .slide vertical=true -->
 
 - Phone
-  - **+86 18756280097**
+  - **+86 17848525611**
 - WeChat
-  - **Wu-\_-Kan**
+  - **xiao-\-xin**
 - E-mail:
   - **[i[at]wu-kan.cn](mailto:i@wu-kan.cn)**
   - **[wukan3[at]mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
