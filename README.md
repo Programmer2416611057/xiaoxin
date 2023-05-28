@@ -1,57 +1,62 @@
-# 星合
+# 鑫鑫空
 
 欢迎访问我的主页！下面向你介绍一下我吧\~
 
 <!-- .slide -->
 
-## Contact
+## 资料
 
-- Address
-  - **Sun Yat-sen University - 132 Waihuan East Rd. - Guizhou, China**
+- 地址
+  - ** 师大 - Guizhou, China**
 - Site
   - **<https://programmer2416611057.github.io/xiaoxin/>**
-- [Resume](https://resume.wu-kan.cn/index.pdf)
+- [Resume](https://www.douyin.com/user/self)
 
 <!-- .slide vertical=true -->
 
-- Phone
+- 手机
   - **+86 17848525611**
-- WeChat
+- 微信
   - **xiao-\-xin**
-- E-mail:
+- 电子邮箱:
   - **[i[at]wu-kan.cn](mailto:i@wu-kan.cn)**
   - **[wukan3[at]mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
 
 <!-- .slide -->
 
-## Projects
+## 项目
 
 <!-- .slide vertical=true -->
 
 - [HPL-AI](https://wu-kan.cn/2021/03/14/HPL-AI/)[![Star](https://img.shields.io/github/stars/wu-kan/HPL-AI.svg)](https://github.com/wu-kan/HPL-AI)[![Fork](https://img.shields.io/github/forks/wu-kan/HPL-AI.svg)](https://github.com/wu-kan/HPL-AI/fork)
-  - An implementation of HPL-AI Mixed-Precision Benchmark based on hpl-2.3.
+  - 基于 HPL-AI Mixed-Precision hpl-2.3设计.
   - Graduation design for undergraduate thesis.
 
 <!-- .slide vertical=true -->
 
 - [SYsU-lang](https://arcsysu.github.io/SYsU-lang/)[![Star](https://img.shields.io/github/stars/arcsysu/SYsU-lang.svg)](https://github.com/arcsysu/SYsU-lang)[![Fork](https://img.shields.io/github/forks/arcsysu/SYsU-lang.svg)](https://github.com/arcsysu/SYsU-lang/fork)
-  - A mini, simple and modular compiler for SYsU (a tiny C language).
-  - Based on flex, bison and LLVM.
+  - 微型模块化编译器.
+  - 基于 flex, bison 和 LLVM.
 
 <!-- .slide vertical=true -->
 
 - [jekyll-theme-WuK](https://jekyll-theme-WuK.wu-kan.cn/)[![Star](https://img.shields.io/github/stars/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io)[![Fork](https://img.shields.io/github/forks/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io/fork)
-  - A static blog system with content-first, sliding sidebar theme.
-  - Powered by Jekyll.
+  - 基于jekyll博客搭建.
+  - 静态博客系统.
 
 <!-- .slide -->
 
-## Experience
+## 经历
 
-- Teach Assistant of Compilation Principle, [Feb. 2022 - Jun. 2022](https://xianweiz.github.io/teach/dcs290/s2022.html)
-- Teach Assistant of Computer System Organization, Sep. 2021 - Jan. 2022 , Sep. 2022 - Jan. 2023 (expected)
-- Intern of Inference Engine, Speech & Audio Team (Beijing), Bytedance AI Lab, Feb. 2021 - Aug. 2021
-- Leader of [SYSU-SCC](https://github.com/SYSU-SCC), Mar. 2020 - Jul. 2021
+- 🐧 大二学生，万粉知识博主
+👨‍💻 经历：关于我，02线程序员小 UP
+🏡 作品：2 | 1 | 3 | S生成器 | 4 | 编程资源大全 | 求星星 ✨
+🌱 干货：8
+😺 视频：B站 程序员 | 抖音 南 墙
+💬 微信：（请备注事由）
+🤔 问题：知乎 无
+👭 我的编程知识星球：帮你学编程、做项目的圈子，可以向我 1 对 1问
+🛫 万人 ChatGPT 免费交流群：点击链接加入，把握时代风口
 
 <!-- .slide -->
 
