@@ -7,15 +7,15 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
     <i class="fa-solid fa-envelope"></i>
   </a>
   <a href="https://github.com/wu-kan">
-    <i class="fa-brands fa-github"></i>
+    <i class="https://github.com/Programmer2416611057"></i>
   </a>
   <a href="https://vjudge.net/user/WuK">
     <i class="fa-solid fa-smile"></i>
   </a>
-  <a href="https://space.bilibili.com/166390020">
+  <a href="https://space.bilibili.com/2121130376?spm_id_from=333.1007.0.0">
     <i class="fa-brands fa-bilibili"></i>
   </a>
-  <a href="https://www.zhihu.com/people/wu.kan/activities">
+  <a href="https://www.zhihu.com/people/wpyiz9">
     <i class="fa-brands fa-zhihu"></i>
   </a>
   <br/>
@@ -47,7 +47,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             disable: false # 是否不显示sidebar
             avatar: # 侧边栏显示的头像
               enable: true
-              img: https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320 # 头像的地址
+              img: https://pic2.zhimg.com/v2-13aeac612de469e9687b6926a1b4ca75_b.jpg # 头像的地址
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
               - title: '<i class="fa-solid fa-home fa-fw"></i> 首页'
                 href: /
@@ -288,7 +288,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 网站小图标，可换成你自己的图片，改href中的部分即可
               <link
                 rel="apple-touch-icon-precomposed"
-                href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320"
+                href="https://pic2.zhimg.com/v2-edeb6d1a20fab3a1ee9fc9bf68ebfe2d_b.jpg"
               />
               <link
                 rel="shortcut
