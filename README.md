@@ -6,11 +6,11 @@
 
 ## 资料
 
-- 地址
+- 地址：
   - ** 师大 - Guizhou, China**
-- Site
+- GitHub仓库：
   - **<https://programmer2416611057.github.io/xiaoxin/>**
-- [Resume](https://www.douyin.com/user/self)
+- [抖音](https://www.douyin.com/user/self)
 
 <!-- .slide vertical=true -->
 
