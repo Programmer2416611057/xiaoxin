@@ -19,7 +19,7 @@
 - 微信
   - **xiao-\-xin**
 - 电子邮箱:
-  - **[i[at]wu-kan.cn](mailto:i@wu-kan.cn)**
+  - **[i[at]wu-kan.cn](mailto:2416611057@qq.com)**
   - **[wukan3[at]mail2.sysu.edu.cn](mailto:wukan3@mail2.sysu.edu.cn)**
 
 <!-- .slide -->
